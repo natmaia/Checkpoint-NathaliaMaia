@@ -2,7 +2,7 @@
 
     Este projeto consiste em um aplicativo móvel que possui três telas principais: Login, Cadastro e Lista. O objetivo do aplicativo é permitir que os usuários façam login em suas contas, realizem o cadastro de novas contas e visualizem uma lista de itens.
 
-![Design do Aplicativo](./assets/ExemplosTelas.png)
+![Design do Aplicativo](./assets/ResultadoFinal.png)
 
 ---
 ## <span style="color: #grey;">Telas</span>
